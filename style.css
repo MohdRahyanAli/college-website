@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  background: url('https://via.placeholder.com/1500x400') center/cover no-repeat;
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.about,
+.departments,
+.events,
+.contact {
+  padding: 40px 20px;
+}
+
+.footer {
+  background: #003366;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-size: 14px;
+}
